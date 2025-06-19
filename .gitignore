@@ -40,3 +40,6 @@ data/*.csv
 *.png
 *.pdf
 *.svg
+
+# But keep the dashboard preview
+!assets/screenshot.png
